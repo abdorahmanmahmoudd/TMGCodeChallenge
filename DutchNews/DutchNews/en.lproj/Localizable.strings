@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  DutchNews
+
+  Created by Abdorahman Youssef on 7/18/19.
+  Copyright © 2019 abdelrahman. All rights reserved.
+*/
+
+"NewsTitle" = "Top headlines";
+"NewsEmptyResult" = "No results";
+"NoInternetMessage" = "There is no internet connection";
+"notFound" = "Not found";
+"internalServerError" = "Internal server error";
+"forbidden" = "Forbidden";
+"timeOut" = "time out";
+"irrecoverable" = "Irrecoverable error";
+"notAuthorized" = "Not authorized";
+"badRequest" = "Bad request";
+"UnknownError" = "Unknown error";
